@@ -43,6 +43,20 @@ Save different versions of the videos and compare the results to understand how 
 
 
 
-# Result:  [exp 9 prompt pdf.pdf](https://github.com/user-attachments/files/22991656/exp.9.prompt.pdf.pdf)
+# Result:
+1. Simple Prompt Version
+A group of friends spending a fun day at the beach.
+
+2. Refined Prompt Version
+A group of four friends laughing and playing at a sunny beach. Two are building a sandcastle near the shore, one is running toward the waves, and another is taking photos. The sea sparkles under the bright sunlight, with umbrellas and surfboards in the background. The scene feels warm, happy, and summery.
+
+## THE ABOVE MENTIONED VIDEO IS ATTACHED BELOW
+
+https://github.com/user-attachments/assets/d677a9c8-f1d5-407c-ac11-42129981768c
+
+https://github.com/user-attachments/assets/23d71e97-0e96-4cb3-b12d-eb540937ff01
+
+
+
 
 
